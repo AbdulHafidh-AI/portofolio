@@ -8,7 +8,7 @@ module.exports = {
     },
     extend: {
       colors:{
-        primary : "#34d399" ,// Emerald colour
+        primary : "#a3e635" ,// Emerald colour
         secondary: "#94a3b8" // text-slate-400
       }
     },
