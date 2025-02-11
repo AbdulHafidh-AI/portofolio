@@ -48,19 +48,18 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "Loan Default Prediction",
+    "desc": "Developed a Logistic Regression model in Python using Scikit-learn and Pandas to predict loan defaults with 90% accuracy, documented in Jupyter Notebook for financial risk analysis.",
+    "image": "data-analysis",
+    "category": "Machine Learning",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
       "code": "https://github.com/AbdulHafidh-AI/flipkart-mern"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Recommendation System",
+    "desc": "Developed a TensorFlow-based recommender system, deployed on Google Cloud Run with Docker, to help tourists find nearby SMEs in Yogyakarta, integrated into an Android app for seamless access.",
+    "image": "Wismata",
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
@@ -68,32 +67,29 @@
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "International Conference Certificate",
+    "desc": "Presented a paper on Medical Visual Question Answering at International Conference On Electrical Engineering and Informatics 2024",
+    "image": "Paper-Conference-Certificate",
+    "category": "Deep Learning",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/AbdulHafidh-AI/React-Projects"
+      "view": "https://www.linkedin.com/posts/abdulhafidh_certificate-as-a-presenter-activity-7245118059646967809-JLaa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc49wEB4BGzF41liYz3hX2nZ7EogXRvAIM"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "Tensorflow Developer Certificate",
+    "desc": "Passed the TensorFlow Developer Certificate exam. This certificate demonstrates proficiency in solving machine learning and deep learning problems using TensorFlow.",
+    "image": "Tensorflow-Developer-Certificate-1",
+    "category": "Machine Learning",
     "links": {
-      "view": "https://github.com/AbdulHafidh-AI/Flipkart-Clone-PHP",
-      "code": "https://github.com/AbdulHafidh-AI/Flipkart-Clone-PHP"
+      "view": "http://credential.net/9e6ba8be-0f9e-4bb1-9c35-888ca55f5325#acc.bE7q34KS"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Bangkit Academy Certificate",
+    "desc": "An intensive 6-month project-based learning program by Google, Tokopedia, Gojek, & Traveloka. Completed a capstone project on Machine Learning.",
+    "image": "BangkitCertificate",
+    "category": "Machine Learning",
     "links": {
-      "view": "https://Abdul-sable.github.io/JavaScript-Projects",
       "code": "https://github.com/AbdulHafidh-AI/JavaScript-Projects"
     }
   }
