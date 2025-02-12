@@ -53,17 +53,16 @@
     "image": "data-analysis",
     "category": "Machine Learning",
     "links": {
-      "code": "https://github.com/AbdulHafidh-AI/flipkart-mern"
+      "view": "https://github.com/AbdulHafidh-AI/INF540-KELOMPOK2-MACHINE_LEARNING_PROJECT/blob/master/LoanDefaultPrediction_01.ipynb"
     }
   },
   {
     "name": "Recommendation System",
     "desc": "Developed a TensorFlow-based recommender system, deployed on Google Cloud Run with Docker, to help tourists find nearby SMEs in Yogyakarta, integrated into an Android app for seamless access.",
     "image": "Wismata",
-    "category": "mern",
+    "category": "Machine Learning",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/AbdulHafidh-AI/resumegen"
+      "view": "https://github.com/AbdulHafidh-AI/Wismata-C23-PS297"
     }
   },
   {
@@ -72,7 +71,7 @@
     "image": "Paper-Conference-Certificate",
     "category": "Deep Learning",
     "links": {
-      "view": "https://www.linkedin.com/posts/abdulhafidh_certificate-as-a-presenter-activity-7245118059646967809-JLaa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc49wEB4BGzF41liYz3hX2nZ7EogXRvAIM"
+      "view": "https://drive.google.com/file/d/1G-Y1ALZ5ZO-9VH36mbw7Cvlwtt2ItW9_/view?usp=drive_link"
     }
   },
   {
@@ -90,7 +89,7 @@
     "image": "BangkitCertificate",
     "category": "Machine Learning",
     "links": {
-      "code": "https://github.com/AbdulHafidh-AI/JavaScript-Projects"
+      "view": "https://drive.google.com/file/d/1f8jsl9hToRHwhlQhxiO-eSXIH1a1Qx2m/view?usp=drive_link"
     }
   }
 ]
