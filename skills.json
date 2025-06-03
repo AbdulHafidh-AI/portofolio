@@ -67,5 +67,13 @@
     {
         "name": "Hugging Face",
         "icon": "https://img.icons8.com/?size=48&id=sop9ROXku5bb&format=png&color=000000"
+    },
+    {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/color/48/000000/grafana.png"
+    },
+    {
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000"
     }
 ]
